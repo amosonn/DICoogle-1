@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Config>
+<DirectorySettings>
+<ExternalViewer/>
+<TempFilesDir>C:\Users\aaron\AppData\Local\Temp\</TempFilesDir>
+</DirectorySettings>
+<DefaultGUIServer>
+<DefaultServerHost>localhost</DefaultServerHost>
+<DefaultServerPort>9014</DefaultServerPort>
+<DefaultUsername>dicoogle</DefaultUsername>
+<DefaultPassword>gahkElBscK8yQiYdEBza6Ntucz0=</DefaultPassword>
+<AutoConnect>false</AutoConnect>
+</DefaultGUIServer>
+</Config>

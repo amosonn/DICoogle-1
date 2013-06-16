@@ -1,0 +1,61 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package pt.ua.dicoogle.util;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import pt.ua.dicoogle.utils.CPULoad;
+import static org.junit.Assert.*;
+
+/**
+ *
+ * @author bastiao
+ */
+public class TestCPULoad
+{
+
+    private static CPULoad cpu  = null ;
+
+    public TestCPULoad()
+    {
+        
+    }
+
+    @BeforeClass
+    public static void setUpClass() throws Exception {
+
+        cpu = new CPULoad();
+        
+
+    }
+
+    @AfterClass
+    public static void tearDownClass() throws Exception {
+    }
+
+    @Before
+    public void setUp() {
+    }
+
+    @After
+    public void tearDown() {
+    }
+
+    // TODO add test methods here.
+    // The methods must be annotated with annotation @Test. For example:
+    //
+    @Test
+    public void hello() 
+    
+    {
+        System.out.println(cpu.cpuLoad());
+
+    }
+
+}

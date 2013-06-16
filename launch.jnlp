@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp 	codebase="http://www.dicoogle.com/devel/dicoogle/updates" 
+		href="launch.jnlp" 
+		spec="1.0+">
+		
+    <information>
+        <title>Dicoogle</title>
+        <vendor>www.dicoogle.com</vendor>
+        <homepage href="http://www.dicoogle.com"/>
+        <description>Dicoogle PACS.</description>
+        <offline-allowed/>
+
+        <description kind="short">Dicoogle</description>
+		<icon href="icon.png"/>
+		<icon href="splash.png" kind="splash"/>
+		<offline-allowed/>
+		
+		<shortcut>
+			<desktop/>
+			<menu submenu="Dicoogle"/>
+		</shortcut>
+    </information>
+	
+    <update check="always"/>
+	
+    <security>
+		<all-permissions/>
+	</security>
+	
+    <resources>
+        <j2se 	java-vm-args="-ea -Xmx400m  -Djava.security.debug=all" 
+				version="1.6"/>
+				
+        <jar href="Dicoogle.jar" main="true"/>
+		
+		<jar href="lib/AbsoluteLayout.jar" />
+		<jar href="lib/AnonymousPatientData-jar-with-dependencies.jar" />
+		<jar href="lib/beansbinding-1.2.1.jar" />
+		<jar href="lib/commons-logging-1.0.4.jar" />
+		<jar href="lib/dcm4che-audit-2.0.25.jar" />
+		<jar href="lib/dcm4che-base64-2.0.25.jar" />
+		<jar href="lib/dcm4che-core-2.0.25.jar" />
+		<jar href="lib/dcm4che-filecache-2.0.25.jar" />
+		<jar href="lib/dcm4che-hp-2.0.25.jar" />
+		<jar href="lib/dcm4che-image-2.0.25.jar" />
+		<jar href="lib/dcm4che-imageio-2.0.25.jar" />
+		<jar href="lib/dcm4che-imageio-rle-2.0.25.jar" />
+		<jar href="lib/dcm4che-iod-2.0.25.jar" />
+		<jar href="lib/dcm4che-net-2.0.25.jar" />
+		<jar href="lib/dcm4che-soundex-2.0.25.jar" />
+		<jar href="lib/dicoogle-SDK.jar" />
+		<jar href="lib/emailReport-jar-with-dependencies.jar" />
+		<jar href="lib/jai_codec.jar" />
+		<jar href="lib/jai_core.jar" />
+		<jar href="lib/jai_imageio.jar" />
+		<jar href="lib/jnotify-0.93.jar" />
+		<jar href="lib/junit-4.1.jar" />
+		<jar href="lib/log4j-1.2.16.jar" />
+		<jar href="lib/mail.jar" />
+		<jar href="lib/org.restlet.jar" />
+		<jar href="lib/slf4j-api-1.6.1.jar" />
+		<jar href="lib/slf4j-log4j12-1.6.1.jar" />
+		<jar href="lib/substance.jar" />
+		<jar href="lib/swing-layout-1.0.4.jar" />
+		<jar href="lib/swingx-0.9.7.jar" />
+		<jar href="lib/swingx-beaninfo-0.9.7.jar" />
+		<!--jar href="lib/Feedjii.jar"/-->
+		<!--extension name="feedjii" href="feedjii.jnlp"/>
+		<!--jar href="lib/Jmol.jar"/-->
+		<!--extension name="jmol" href="jmol.jnlp"/-->
+	</resources>
+
+    <application-desc 
+		main-class="pt.ua.dicoogle.Main">
+    </application-desc>
+	
+</jnlp>

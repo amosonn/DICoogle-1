@@ -1,0 +1,18 @@
+Documentation of Dicoogle
+
+Dicoogle Docmentation is made using sphinx [0], a tool made in Python language that is able to generate docs based on a simple and easier text base.
+
+== How to generate docs? == 
+
+In Unix, or Linux enviroment (Mac OS is UNIX):
+
+$ Are you in Dicoogle root? Yes? You can follow in line.
+$ cd docs
+$ make
+$ cd html
+$ open index.html with whatever you want :P
+
+In Windows is possible generate docs, but no bat file yet. :)
+
+
+[0] - http://sphinx.pocoo.org/

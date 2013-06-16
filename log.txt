@@ -1,0 +1,102 @@
+2013/06/13 15:30:11:: Starting Dicoogle
+
+2013/06/13 15:30:11:: Missing crash report configuration (sender)
+
+2013/06/13 16:00:17:: Starting Dicoogle
+
+2013/06/13 16:00:17:: Missing crash report configuration (sender)
+
+2013/06/13 16:04:04:: Starting Dicoogle
+
+2013/06/13 16:04:04:: Missing crash report configuration (sender)
+
+2013/06/13 16:07:36:: Starting Dicoogle
+
+2013/06/13 16:07:36:: Missing crash report configuration (sender)
+
+2013/06/13 16:10:10:: Starting Dicoogle
+
+2013/06/13 16:10:11:: Missing crash report configuration (sender)
+
+2013/06/13 16:11:08:: Starting Dicoogle
+
+2013/06/13 16:11:08:: Missing crash report configuration (sender)
+
+2013/06/13 16:11:32:: Starting Dicoogle
+
+2013/06/13 16:11:32:: Missing crash report configuration (sender)
+
+2013/06/13 16:16:58:: Starting Dicoogle
+
+2013/06/13 16:16:58:: Missing crash report configuration (sender)
+
+2013/06/13 16:17:37:: Starting Dicoogle
+
+2013/06/13 16:17:37:: Missing crash report configuration (sender)
+
+2013/06/13 16:20:54:: Starting Dicoogle
+
+2013/06/13 16:20:54:: Missing crash report configuration (sender)
+
+2013/06/13 16:21:45:: Peeking task
+2013/06/13 16:21:45:: Creating thread for task
+2013/06/13 16:21:45:: Starting thread
+2013/06/13 16:21:45:: Starting Indexing
+
+2013/06/13 16:21:45:: Entering in sync
+Indexing:false
+2013/06/13 16:21:45:: Starting looking in directory to index
+2013/06/13 16:34:42:: 
+	***Directory Index Time (miliseg)***
+	Start Time: 194394885580823
+	End Time:195172104005578
+	Delta Time: 777218
+
+2013/06/13 16:35:21:: Starting Dicoogle
+
+2013/06/13 16:35:21:: Missing crash report configuration (sender)
+
+2013/06/13 16:35:53:: Starting Dicoogle
+
+2013/06/13 16:35:54:: Missing crash report configuration (sender)
+
+2013/06/15 22:38:09:: Starting Dicoogle
+
+2013/06/15 22:38:09:: Missing crash report configuration (sender)
+
+2013/06/15 23:30:58:: Starting Dicoogle
+
+2013/06/15 23:30:58:: Missing crash report configuration (sender)
+
+2013/06/15 23:32:46:: Starting Dicoogle
+
+2013/06/15 23:32:46:: Missing crash report configuration (sender)
+
+2013/06/15 23:35:44:: Starting Dicoogle
+
+2013/06/15 23:35:44:: Missing crash report configuration (sender)
+
+2013/06/16 15:38:58:: Starting Dicoogle
+
+2013/06/16 15:38:59:: Missing crash report configuration (sender)
+
+2013/06/16 15:40:44:: Starting Dicoogle
+
+2013/06/16 15:40:44:: Missing crash report configuration (sender)
+
+2013/06/16 15:41:32:: Starting Dicoogle
+
+2013/06/16 15:41:32:: Missing crash report configuration (sender)
+
+2013/06/16 15:42:14:: Starting Dicoogle
+
+2013/06/16 15:42:15:: Missing crash report configuration (sender)
+
+2013/06/16 16:01:17:: Starting Dicoogle
+
+2013/06/16 16:01:17:: Missing crash report configuration (sender)
+
+2013/06/16 16:02:55:: Starting Dicoogle
+
+2013/06/16 16:02:55:: Missing crash report configuration (sender)
+
