@@ -1,2 +1,4 @@
 bin
 *.class
+*.log
+QueryHistory.ser

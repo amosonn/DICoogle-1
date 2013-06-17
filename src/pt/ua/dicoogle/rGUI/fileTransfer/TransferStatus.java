@@ -164,7 +164,7 @@ public class TransferStatus extends javax.swing.JFrame {
                 Desktop.getDesktop().open(new File(filePath));
 
             } catch (IOException ex) {
-                String folder = filePath.substring(0, filePath.lastIndexOf('/'));
+                String folder = filePath.substring(0, filePath.lastIndexOf(File.separator));
 
                 try {
                     Desktop.getDesktop().open(new File(folder));
@@ -180,7 +180,7 @@ public class TransferStatus extends javax.swing.JFrame {
 
             } catch (IOException ex) {
 
-                String folder = filePath.substring(0, filePath.lastIndexOf('/'));
+                String folder = filePath.substring(0, filePath.lastIndexOf(File.separator));
 
                 try {
                     Desktop.getDesktop().open(new File(folder));

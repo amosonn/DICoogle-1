@@ -71,7 +71,7 @@ public class FileResponseHandler implements MessageHandler
                  */
                 try
                 {
-                    Desktop.getDesktop().open(new File(filePath.replace('\\', '/')));
+                    Desktop.getDesktop().open(new File(filePath.replace("\\", File.separator)));
                 } catch (Exception e)
                 {
                     e.printStackTrace();

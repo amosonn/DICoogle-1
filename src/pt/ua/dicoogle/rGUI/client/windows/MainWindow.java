@@ -2367,7 +2367,7 @@ private void jButtonViewActionPerformed(java.awt.event.ActionEvent evt) {//GEN-F
 
                     } catch (IOException ex)
                     {
-                        String folder = path.substring(0, path.lastIndexOf('/'));
+                        String folder = path.substring(0, path.lastIndexOf(File.separator));
 
                         try
                         {
@@ -2390,7 +2390,7 @@ private void jButtonViewActionPerformed(java.awt.event.ActionEvent evt) {//GEN-F
                     {
                         //ex.printStackTrace();
 
-                        String folder = path.substring(0, path.lastIndexOf('/'));
+                        String folder = path.substring(0, path.lastIndexOf(File.separator));
 
                         try
                         {
